@@ -1,0 +1,11 @@
+*.xml
+*.iml
+*.class
+*.css
+*.xsl
+*.properties
+*export*
+*$global*
+*.cache
+*.history
+C:\Users\lbasavaraj\.ivy2\*
