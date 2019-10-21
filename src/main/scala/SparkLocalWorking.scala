@@ -7,7 +7,7 @@ import org.scalatest.{BeforeAndAfter}
 import com.holdenkarau.spark.testing.{RDDComparisons, RDDGenerator, SharedSparkContext}
 
 /**
- * Running this on spark submit
+ * Running this on spark submit ---
  * spark-submit --class retail_db.SparkLocalWorking C:\Users\lbasavaraj\IdeaProjects\spark2demo\target\scala-2.11\spark2demo_2.11-0.1.jar "C:\Users\lbasavaraj\Downloads\sparkWorking\"
  * Tutorial - https://kaizen.itversity.com/setup-development-environment-intellij-and-scala-big-data-hadoop-and-spark/
  */
